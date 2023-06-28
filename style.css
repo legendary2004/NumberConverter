@@ -1,0 +1,29 @@
+.section {
+    width: 700px !important;
+    background-color: #574e37;
+}
+
+h1, h5 {
+    text-align: center;
+    color: #4f4;
+    opacity: 0.9;
+}
+
+.div-1 {
+    justify-content: center !important;
+}
+
+.box {
+    width: 70px;
+    background-color: gray;
+}
+
+.margin {
+    margin-left: -250px !important;
+    margin-right: -250px !important;
+}
+
+.div-2 {
+    display: flex !important;
+    justify-content: space-around !important;
+}
